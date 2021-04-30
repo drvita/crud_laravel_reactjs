@@ -10,3 +10,20 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
+#REACT
+/reactjs_test/node_modules
+/reactjs_test/.pnp
+/reactjs_test/.pnp.js
+# testing
+/reactjs_test/coverage
+# production
+/reactjs_test/build
+# misc
+/reactjs_test/.DS_Store
+/reactjs_test/.env.local
+/reactjs_test/.env.development.local
+/reactjs_test/.env.test.local
+/reactjs_test/.env.production.local
+/reactjs_test/npm-debug.log*
+/reactjs_test/yarn-debug.log*
+/reactjs_test/yarn-error.log*
